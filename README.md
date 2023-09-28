@@ -1,5 +1,6 @@
-# 💫 About Me:
-<div><br>     <p><br>         #  I am currently working on my own projects<br>          # I am learning new technologies<br>           #I am a student at the National Engineering University of Managua, Nicaragua.<br>            # systems engineering career<br>           #i'm in my 20s<br>          # My medium/long term goal is to become a web developer<br>      </p><br></div>
+# 💫 ꧁༒☬𝓖𝓮𝓸𝓿𝓪𝓷𝓷𝔂 𝓢𝓪𝓷𝓭𝓲𝓷𝓸☬༒꧂
+
+(人◕‿◕) 𝕀𝕟𝕘𝕖𝕟𝕚𝕖𝕣𝕠 𝕕𝕖 𝕊𝕚𝕤𝕥𝕖𝕞𝕒𝕤 (•◡•)
 
 
 ## 🌐 Socials:
