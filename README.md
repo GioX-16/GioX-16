@@ -1,5 +1,8 @@
 # 💻 ꧁ 𝓖𝓮𝓸𝓿𝓪𝓷𝓷𝔂 𝓢𝓪𝓷𝓭𝓲𝓷𝓸 ꧂
 
+
+
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 💻 INGENIERO DE SISTEMAS
 
 
