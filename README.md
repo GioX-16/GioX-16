@@ -1,9 +1,9 @@
 # 💻  𝓖𝓮𝓸𝓿𝓪𝓷𝓷𝔂 𝓢𝓪𝓷𝓭𝓲𝓷𝓸 
 
-<img src="https://www.facebook.com/photo/?fbid=1566983054049369&set=a.113561319391557" align="center" alt="berkeli header image">
-
-
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
+![FondoGX](https://github.com/GioX-16/GioX-16/assets/84195837/9cb140aa-9737-4de7-af4b-a66c745963e6)
+
 💻 INGENIERO DE SISTEMAS
 
 
