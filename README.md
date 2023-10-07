@@ -76,21 +76,24 @@ Systems engineer student,
 - ⚡ Fun fact: I never thought I would become a programmer!
 
 
-<img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+<a target="_blank" align="center">
+  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
+  
+</a>
 
 
-<=====================================================>
+<================================================>
 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
-=> Trabajo en equipo
-=> Proactividad
-=> Liderazgo
-=> Trato con personas
-=> Responsabilidad
-=> Fotografía
-=> Edición de Fotos y Videos
+* Trabajo en equipo
+* Proactividad
+* Liderazgo
+* Trato con personas
+* Responsabilidad
+* Fotografía
+* Edición de Fotos y Videos
 
-<=====================================================>
+<=================================================>
 
 
