@@ -67,7 +67,7 @@
 
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 
-Systems engineer student,
+Systems engineer student,                                           <a target="_blank" align="center"> <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif"> </a>
 - 🌱 I am currently learning software architecture.
 - 👯 Development of WEB and Mobile Applications.
 - 📫 How to contact me: Sandinowork16@gmail.com
@@ -76,13 +76,10 @@ Systems engineer student,
 - ⚡ Fun fact: I never thought I would become a programmer!
 
 
-<a target="_blank" align="center">
-  <img align="right" top="500" height="270" width="400" alt="GIF" src="https://github.com/SophieNguyen113/SophieNguyen113/blob/main/Sophie%20Nguyen%20-%20CatCat.gif">
-  
-</a>
 
 
-<================================================>
+
+<===========================================>
 
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 
@@ -94,6 +91,6 @@ Systems engineer student,
 * Fotografía
 * Edición de Fotos y Videos
 
-<=================================================>
+<============================================>
 
 
