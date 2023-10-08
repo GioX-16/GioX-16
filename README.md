@@ -93,18 +93,21 @@ Systems engineer student,
 * Fotografía
 * Edición de Fotos y Videos
 
+
+<======================================================================================>
+
    <div align="center">
         <img src="https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif" alt="ảnh gif">
     </div>
 
 <======================================================================================>
 
+<div align="center">
+  
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+ThankYou+for+view+My+GitHub+profile...!)
 
-<h1 align="center">
-  <img src="https://github.com/oHTGo/oHTGo/blob/main/images/logo.svg" width="500">
-  <br>
-  Thank you for Viewing My Profile <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
-</h1>
+</div>
+
 
 
 
