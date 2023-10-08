@@ -101,9 +101,9 @@ Systems engineer student,
 
 
 <h1 align="center">
-  <img src="https://github.com/oGSo/oGSo/blob/main/images/logo.svg" width="500">
+  <img src="https://github.com/oHTGo/oHTGo/blob/main/images/logo.svg" width="500">
   <br>
-  Thank you for viewing my profile <3 <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
+  Thank you for Viewing My Profile <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
 </h1>
 
 
