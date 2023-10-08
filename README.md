@@ -79,7 +79,7 @@ Systems engineer student,
 
 
 
-<===========================================>
+<======================================================================================>
 
   
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
@@ -97,7 +97,12 @@ Systems engineer student,
         <img src="https://media.giphy.com/media/mtmFB01G4rvFEHAsfI/giphy.gif" alt="ảnh gif">
     </div>
 
-<============================================>
+<======================================================================================>
+
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Thanks+for+Viewing+%3C3;My Profile;Good+Bye+!">
+</p>
 
 
 
