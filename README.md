@@ -100,9 +100,11 @@ Systems engineer student,
 <======================================================================================>
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=3000&color=%2338C2FF&size=40&height=200&width=800&lines=Thanks+for+Viewing+%3C3;My Profile;Good+Bye+!">
-</p>
+<h1 align="center">
+  <img src="https://github.com/oGSo/oGSo/blob/main/images/logo.svg" width="500">
+  <br>
+  Thank you for viewing my profile <3 <img src="https://github.com/oHTGo/oHTGo/blob/main/images/hi.gif" width="30px" height="30px">
+</h1>
 
 
 
