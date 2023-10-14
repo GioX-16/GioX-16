@@ -3,7 +3,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-![GithubBackground](https://github.com/GioX-16/GioX-16/assets/84195837/7366c1dc-ebd0-47d1-bd03-13f03d979ad2)
+
+![Black Typographic Retro Moon and Astronaut Twitter Header (1)](https://github.com/GioX-16/GioX-16/assets/84195837/35b24283-18bb-4cd1-ac46-3caa61853d0d)
 
 💻 INGENIERO DE SISTEMAS - SYSTEM ENGIENER
 
