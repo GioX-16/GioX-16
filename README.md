@@ -96,7 +96,7 @@ Systems engineer student,
 
 <a target="_blank"><img align="left" height="250" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
-<======================================================================================>
+
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
