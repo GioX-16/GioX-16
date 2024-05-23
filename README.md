@@ -69,22 +69,15 @@
 <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500" />
 
 Systems engineer student,      
-- 🌱 I am currently learning software architecture.
+- 🌱 I am currently learning software architecture.                
 - 👯 Development of WEB and Mobile Applications.
 - 📫 How to contact me: Sandinowork16@gmail.com
 - 😄 Portfolio: https://unique-frangollo-187a9d.netlify.app/
 - 🌱 Photography Lover.
 - ⚡ Fun fact: I never thought I would become a programmer!
 
-<td width="50%" align="center">
-
-  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
-
-  
-  </td>
-
-
-
+<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
+ 
 
 <======================================================================================>
 
@@ -107,7 +100,6 @@ Systems engineer student,
     <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
 </div>
 
-⭐ 2021's Objective: Contribute more to open source <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
 <======================================================================================>
 
