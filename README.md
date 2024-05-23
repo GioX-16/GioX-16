@@ -100,9 +100,7 @@ Systems engineer student,
 
 <======================================================================================>
 
-   <div align="left">
-    <img src="https://raw.githubusercontent.com/Niefee/niefee/master/assets/fly.webp" height="120px" />
-</div>
+![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
 
 <======================================================================================>
