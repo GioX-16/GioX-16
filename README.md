@@ -83,7 +83,8 @@ Systems engineer student,
 
   
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-  
+
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
 * Trabajo en equipo
 * Proactividad
@@ -93,7 +94,7 @@ Systems engineer student,
 * Fotografía
 * Edición de Fotos y Videos
 
-<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+
 
 <======================================================================================>
 
