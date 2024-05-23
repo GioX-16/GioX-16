@@ -96,14 +96,6 @@ Systems engineer student,
 
 <a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
- GGG     IIIII   OOO
-G   G      I    O   O
-G          I    O   O
-G  GGG     I    O   O
-G    G     I    O   O
-G    G     I    O   O
- GGGG    IIIII   OOO
-
 
 ![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 
