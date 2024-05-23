@@ -3,7 +3,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-![Black Typographic Retro Moon and Astronaut Twitter Header (2)](https://github.com/GioX-16/GioX-16/assets/84195837/4be8f49e-cd38-44e4-b739-e36347c84375)
+![Portada para Twitter creativa marca personal rosa, lila, blanco (3)](https://github.com/GioX-16/GioX-16/assets/84195837/9340e9e7-739d-40aa-9545-1132917cc88d)
 
 
 💻 INGENIERO DE SISTEMAS - SYSTEM ENGIENER
