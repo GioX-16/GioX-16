@@ -93,10 +93,7 @@ Systems engineer student,
 * Fotografía
 * Edición de Fotos y Videos
 
-  <div align=center>
-    <img src="https://raw.githubusercontent.com/hungpham3112/hungpham3112/main/assets/github.png" alt="github 3d icon" height="200">
-</div>
-
+<a target="_blank"><img align="left" height="300" width="300" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
 
 <======================================================================================>
 
