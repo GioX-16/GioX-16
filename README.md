@@ -72,7 +72,7 @@ Systems engineer student,
 - 🌱 I am currently learning software architecture.                
 - 👯 Development of WEB and Mobile Applications.
 - 📫 How to contact me: Sandinowork16@gmail.com
-- 😄 Portfolio: https://unique-frangollo-187a9d.netlify.app/
+- 😄 Portfolio: https://portfoliogio.netlify.app/
 - 🌱 Photography Lover.
 - ⚡ Fun fact: I never thought I would become a programmer!
 
