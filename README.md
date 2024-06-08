@@ -1,4 +1,6 @@
-# 💻 <h1> 🅷🅴🅻🅻🅾 🅸´🅼 🅶🅸🅾 🆂🅰🅽🅳🅸🅽🅾  < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+# 💻  Geovanny Daniel Sandino
+
+<h1> 🅷🅴🅻🅻🅾  < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
