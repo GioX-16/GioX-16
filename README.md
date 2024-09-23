@@ -17,7 +17,7 @@
 <a href="https://x.com/sandinoG1X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gioxsanx" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/geovanny-sandino-137691273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geovanny-sandino" height="30" width="40" /></a>
 <a href="https://fb.com/g2.giox1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="g2.giox1" height="30" width="40" /></a>
-<a href="https://instagram.com/gio_sanx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gio_sanx" height="30" width="40" /></a>
+<a href="https://www.instagram.com/sand.inox1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gio_sanx" height="30" width="40" /></a>
 </p>
 
 <======================================================================================>
