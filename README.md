@@ -5,7 +5,8 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-![Portada para Twitter creativa marca personal rosa, lila, blanco (3)](https://github.com/GioX-16/GioX-16/assets/84195837/9340e9e7-739d-40aa-9545-1132917cc88d)
+
+![Portada Git](https://github.com/user-attachments/assets/2b773147-fa21-4b5a-891f-047c161f18ef)
 
 
 💻 INGENIERO DE SISTEMAS - SYSTEM ENGIENER
