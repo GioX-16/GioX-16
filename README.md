@@ -6,8 +6,7 @@
 
 
 
-
-https://github.com/user-attachments/assets/2dfbc3e4-02b4-460d-b138-1b008f5642d9
+![Portada Git](https://github.com/user-attachments/assets/2b773147-fa21-4b5a-891f-047c161f18ef)
 
 
 
