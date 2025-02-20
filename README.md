@@ -6,12 +6,7 @@
 
 
 
-
-
-
-
-https://github.com/user-attachments/assets/52b64fe1-0b0b-49ed-9d5a-3e947ea8ab3d
-
+![Portada Git](https://github.com/user-attachments/assets/2b773147-fa21-4b5a-891f-047c161f18ef)
 
 
 
