@@ -5,8 +5,7 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
 
-
-![Portada Git](https://github.com/user-attachments/assets/2b773147-fa21-4b5a-891f-047c161f18ef)
+![portadagit1 0](https://github.com/user-attachments/assets/d299d568-5235-466d-a6c1-46dc2af93207)
 
 
 
