@@ -4,7 +4,7 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-![port12](https://github.com/user-attachments/assets/3aac72d6-2d5a-4e4f-abd6-15114efb4443)
+![Portada de GIT](https://github.com/user-attachments/assets/c20d099b-3f1e-4ccc-9cae-7fd523cfbb87)
 
 
 💻 INGENIERO DE SISTEMAS - SYSTEM ENGIENER
