@@ -3,7 +3,7 @@
 <h1> 🅷🅴🅻🅻🅾  < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 
 
-<img width="640" height="280" alt="gif1" src="https://github.com/user-attachments/assets/ce7d5db5-6cc8-437b-8bfb-94558aaac645" />
+<img width="940" height="180" alt="gif1" src="https://github.com/user-attachments/assets/ce7d5db5-6cc8-437b-8bfb-94558aaac645" />
 
 
 💻 INGENIERO DE SISTEMAS - SYSTEM ENGIENER
