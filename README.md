@@ -12,10 +12,6 @@
 
 <a href="https://portfolio-gioxs.vercel.app/"><img src="assets/portfolio.svg" alt="Portfolio" width="380"/></a>
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=39FF14&style=for-the-badge&label=VISITAS" alt="visitas"/>
-
 </div>
 
 ---
@@ -115,29 +111,6 @@
 <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=adobephotoshop&logoColor=white"/>
 <img src="https://img.shields.io/badge/Lightroom-31A8FF?style=plastic&logo=adobelightroom&logoColor=white"/>
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&hide_border=false&border_color=39FF14&border_radius=12&bg_color=0d1117&title_color=39FF14&text_color=e6edf3&icon_color=00e5ff" alt="GitHub stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&hide_border=false&border_color=39FF14&border_radius=12&bg_color=0d1117&title_color=39FF14&text_color=e6edf3" alt="Top languages"/>
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&background=0D1117&ring=39FF14&fire=00E5FF&currStreakLabel=39FF14&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=00E5FF&dates=8B949E&stroke=39FF14&border=39FF14&border_radius=12" alt="Streak"/>
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=39FF14&hide_border=true&radius=12" alt="Activity graph" width="95%"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=matrix&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies"/>
-
-</div>
 
 ---
 
