@@ -1,114 +1,175 @@
-# 💻  𓂀 𝔾𝕖𝕠𝕧𝕒𝕟𝕟𝕪 𝔻𝕒𝕟𝕚𝕖𝕝 𝕊𝕒𝕟𝕕𝕚𝕟𝕠 𓂀
+<div align="center">
 
-<h1> 🅷🅴🅻🅻🅾  < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<img src="assets/header.svg" alt="GIOXCODE" width="100%"/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=620&lines=%3E+Welcome+to+my+GitHub+profile...!;%3E+Geovanny+Daniel+Sandino;%3E+Systems+Engineer+%7C+Web+%26+Mobile;%3E+Photography+lover+%F0%9F%93%B7" alt="typing"/>
 
-<img width="740" height="180" alt="gif1" src="https://github.com/user-attachments/assets/ce7d5db5-6cc8-437b-8bfb-94558aaac645" />
+<br/><br/>
 
+<img src="assets/neofetch.svg" alt="neofetch" width="100%"/>
 
-💻 INGENIERO DE SISTEMAS - SYSTEM ENGIENER
+<br/><br/>
 
+<a href="https://portfolio-gioxs.vercel.app/"><img src="assets/portfolio.svg" alt="Portfolio" width="380"/></a>
 
-## 🌐 Socials:
-<h3 align="left">Connect with me:</h3>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&color=39FF14&style=for-the-badge&label=VISITAS" alt="visitas"/>
+
+</div>
+
+---
+
+## 🌐 Socials
+
+### Connect with me:
+
 <p align="left">
-<a href="https://x.com/sandinoG1X" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gioxsanx" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/geovanny-daniel-sandino-137691273/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="geovanny-sandino" height="30" width="40" /></a>
-<a href="https://fb.com/g2.giox1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="g2.giox1" height="30" width="40" /></a>
-<a href="https://www.instagram.com/sandi.giox/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gio_sanx" height="30" width="40" /></a>
+<a href="https://x.com/sandinoG1X"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" height="34"/></a>
+<a href="https://www.linkedin.com/in/geovanny-daniel-sandino-137691273/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="34"/></a>
+<a href="https://fb.com/g2.giox1"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="34"/></a>
+<a href="https://www.instagram.com/sandi.giox/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="34"/></a>
+<a href="https://tiktok.com/@g2_giox"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" height="34"/></a>
+<a href="https://twitch.tv/gioxsanx"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" height="34"/></a>
+<a href="https://pinterest.com/gioxsanx"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" height="34"/></a>
+<a href="https://discord.gg/GioXHooD"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" height="34"/></a>
+<a href="mailto:Sandinowork16@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" height="34"/></a>
+<a href="https://portfolio-gioxs.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-39FF14?style=for-the-badge&logo=vercel&logoColor=black" height="34"/></a>
 </p>
 
-<======================================================================================>
+---
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/GioXHooD#8064) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/g2.giox1) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gio_sanx) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/gioxsanx) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@g2_giox) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/gioxsanx) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/gioxsanx) 
+## 💻 Tech Stack
 
-# 💻 Tech Stack:
-<h3 align="left">Languages and Tools:</h3>
+### Languages and Tools:
+
 <table align="center">
-<tr><td align="top" width="33%">
+<tr>
+<td valign="top" width="33%" align="center">
 
-<h3 align="center">FRONTEND DEVELOPER</h3> 
-<div align="center"><br> 
-  <p align="left"> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-</div>
+<h3>🎨 FRONTEND DEVELOPER</h3>
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" width="46" title="Figma"/></a>
+<a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="46" title="HTML5"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="46" title="CSS3"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="46" title="JavaScript"/></a>
+<a href="https://reactjs.org/"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="46" title="React"/></a>
+<a href="https://svelte.dev/"><img src="https://skillicons.dev/icons?i=svelte&theme=dark" width="46" title="Svelte"/></a>
+<a href="https://tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="46" title="Tailwind"/></a>
 
-</td><td valign="top" width="33%">
+</td>
+<td valign="top" width="33%" align="center">
 
+<h3>🗄️ DATABASE / VERSION CONTROL</h3>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="46" title="Git"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="46" title="GitHub"/></a>
+<a href="https://www.microsoft.com/en-us/sql-server"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="46" title="SQL Server"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="46" title="MySQL"/></a>
+<a href="https://firebase.google.com/"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="46" title="Firebase"/></a>
+<a href="https://vercel.com/"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="46" title="Vercel"/></a>
 
+</td>
+<td valign="top" width="33%" align="center">
 
-<h3 align="center">DATABASE/ VERSION CONTROL </h3>
-<div align="center">  
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-</p>  
-</div>
+<h3>⚙️ OTHER LANGUAGES</h3>
+<a href="https://learn.microsoft.com/dotnet/csharp/"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="46" title="C#"/></a>
+<a href="https://dotnet.microsoft.com/"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="46" title=".NET"/></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="46" title="Python"/></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="46" title="Node.js"/></a>
 
-</td><td valign="top" width="33%">
+</td>
+</tr>
+<tr>
+<td valign="top" align="center">
 
+<h3>📷 CREATIVE</h3>
+<a href="https://www.adobe.com/products/photoshop.html"><img src="https://skillicons.dev/icons?i=ps&theme=dark" width="46" title="Photoshop"/></a>
+<a href="https://www.adobe.com/products/photoshop-lightroom.html"><img src="https://skillicons.dev/icons?i=lr&theme=dark" width="46" title="Lightroom"/></a>
 
+</td>
+<td valign="top" align="center">
 
-<h3 align="center">OTHER LENGUAGE </h3>
-<div align="center">  
- <p align="left">
-   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">  
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-       <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-</div>
+<h3>🛠️ EDITORS</h3>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="46" title="VS Code"/></a>
+<a href="https://visualstudio.microsoft.com/"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="46" title="Visual Studio"/></a>
 
-</td></tr></table>
+</td>
+<td valign="top" align="center">
 
-<br/>  
+<h3>🌱 LEARNING</h3>
+<code>Software Architecture</code>
 
-<======================================================================================>
+</td>
+</tr>
+</table>
 
+<p align="center">
+<img src="https://img.shields.io/badge/C%23-239120?style=plastic&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=plastic&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=plastic&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-323330?style=plastic&logo=javascript&logoColor=F7DF1E"/>
+<img src="https://img.shields.io/badge/Svelte-FF3E00?style=plastic&logo=svelte&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=plastic&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=plastic&logo=adobephotoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lightroom-31A8FF?style=plastic&logo=adobelightroom&logoColor=white"/>
+</p>
 
- ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white)  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=plastic&logo=adobephotoshop&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
+---
 
-<======================================================================================>
-
-<a href="https://github.com/UjwalKandi"><img align='right' src='https://github.com/UjwalKandi/UjwalKandi/blob/changes-to-readme/svg/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='150"'></a></h2>
-
-Systems engineer student,      
-- 🌱 I am currently learning software architecture.                
-- 👯 Development of WEB and Mobile Applications.
-- 📫 How to contact me: Sandinowork16@gmail.com
-- 😄 Portfolio: https://portfolio-gioxs.vercel.app/
-- 🌱 Photography Lover.
-- ⚡ Fun fact: I never thought I would become a programmer!
-
-<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="30" />
- 
-
-<======================================================================================>
-
-  
-<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-
-
-* Trabajo en equipo
-* Proactividad
-* Liderazgo
-* Trato con personas
-* Responsabilidad
-* Fotografía
-* Edición de Fotos y Videos
-<====================================================================================>
-
-
-![](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
-
-
-<======================================================================================>
+## 📊 GitHub Stats
 
 <div align="center">
-  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=ROBOT&size=25&color=39FF14&background=000000&center=true&vCenter=true&width=490&lines=%3E+Welcome+to+my+GitHub+profile...!)
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&rank_icon=github&count_private=true&include_all_commits=true&hide_border=false&border_color=39FF14&border_radius=12&bg_color=0d1117&title_color=39FF14&text_color=e6edf3&icon_color=00e5ff" alt="GitHub stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=8&hide_border=false&border_color=39FF14&border_radius=12&bg_color=0d1117&title_color=39FF14&text_color=e6edf3" alt="Top languages"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=TU_USUARIO&background=0D1117&ring=39FF14&fire=00E5FF&currStreakLabel=39FF14&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=00E5FF&dates=8B949E&stroke=39FF14&border=39FF14&border_radius=12" alt="Streak"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&area_color=39FF14&hide_border=true&radius=12" alt="Activity graph" width="95%"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=matrix&no-frame=true&row=1&column=7&margin-w=10" alt="Trophies"/>
 
 </div>
 
+---
 
+## 👨‍💻 About me
 
+Systems engineer student.
 
+- 🌱 I am currently learning software architecture.
+- 👯 Development of WEB and Mobile Applications.
+- 📫 How to contact me: [Sandinowork16@gmail.com](mailto:Sandinowork16@gmail.com)
+- 😄 Portfolio: [portfolio-gioxs.vercel.app](https://portfolio-gioxs.vercel.app/)
+- 📷 Photography lover.
+- ⚡ Fun fact: I never thought I would become a programmer!
 
+## 🚀 Skills
+
+<table align="center"><tr>
+<td align="center">🤝<br/><b>Trabajo en equipo</b></td>
+<td align="center">⚡<br/><b>Proactividad</b></td>
+<td align="center">👑<br/><b>Liderazgo</b></td>
+<td align="center">💬<br/><b>Trato con personas</b></td>
+<td align="center">✅<br/><b>Responsabilidad</b></td>
+<td align="center">📷<br/><b>Fotografía</b></td>
+<td align="center">🎬<br/><b>Edición de fotos y videos</b></td>
+</tr></table>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=39FF14&center=true&vCenter=true&width=490&lines=%3E+Thanks+for+visiting+my+profile...!" alt="Typing SVG"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:39FF14,100:00e5ff&height=100&section=footer"/>
+
+</div>
