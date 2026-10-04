@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="GIOXCODE" width="100%"/>
+<img src="./header.svg" alt="GIOXCODE" width="100%"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=39FF14&center=true&vCenter=true&width=620&lines=%3E+Welcome+to+my+GitHub+profile...!;%3E+Geovanny+Daniel+Sandino;%3E+Systems+Engineer+%7C+Web+%26+Mobile;%3E+Photography+lover+%F0%9F%93%B7" alt="typing"/>
 
 <br/><br/>
 
-<img src="assets/neofetch.svg" alt="neofetch" width="100%"/>
+<img src="./neofetch.svg" alt="neofetch" width="100%"/>
 
 <br/><br/>
 
-<a href="https://portfolio-gioxs.vercel.app/"><img src="assets/portfolio.svg" alt="Portfolio" width="380"/></a>
+<a href="https://portfolio-gioxs.vercel.app/"><img src="./portfolio.svg" alt="Portfolio" width="380"/></a>
 
 </div>
 
